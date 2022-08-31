@@ -1,3 +1,2 @@
 #!/bin/bash
-
-really doing this
+$ wc -l 0-current_working_directory.sh
