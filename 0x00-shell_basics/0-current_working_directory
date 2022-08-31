@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "where am i?"
+echo "0-current_working_directory"
+
